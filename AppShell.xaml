@@ -7,11 +7,11 @@
     Shell.FlyoutBehavior="Disabled">
     <TabBar>
         <ShellContent
- Title="Despre noi"
+ Title="Home"
  ContentTemplate="{DataTemplate local:AboutPage}"
  />
         <ShellContent
- Title="Programari biserica"
+ Title="Detalii biserica"
  ContentTemplate="{DataTemplate local:MainPage}"
  />
 
@@ -20,8 +20,12 @@
  ContentTemplate="{DataTemplate local:ListEntryPage}"
  />
         <ShellContent
- Title="Programari"
- ContentTemplate="{DataTemplate local:ProgramarePage}"
+Title="Creeaza o programare"
+ContentTemplate="{DataTemplate local:ProgramarePage}"
+/>
+        <ShellContent
+ Title="Programari existente"
+ ContentTemplate="{DataTemplate local:ProgramareListPage}"
  />
     </TabBar>
 

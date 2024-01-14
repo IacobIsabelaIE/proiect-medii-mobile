@@ -7,8 +7,15 @@
         <ListView x:Name="programariListView">
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <TextCell Text="{Binding NumeBeneficiar}" 
-                              Detail="{Binding DataProgramare}" />
+                    <ViewCell>
+                        <StackLayout Orientation="Vertical">
+                            <Label Text="{Binding NumeBeneficiar}" 
+                                   FontAttributes="Bold"/>
+                            <Label Text="{Binding DataProgramare}" 
+                                   FontAttributes="Bold"/>
+                            <Label Text="{Binding serviciu.NumeServiciu}" />
+                        </StackLayout>
+                    </ViewCell>
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>

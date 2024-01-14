@@ -27,6 +27,8 @@ namespace ProiectMobile.Data
             return _database.Table<Serviciu>()
             .Where(i => i.ID == id)
            .FirstOrDefaultAsync();
+
+            
         }
         public Task<int> SaveServiciuAsync(Serviciu slist)
         {
