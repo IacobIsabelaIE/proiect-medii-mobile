@@ -13,11 +13,16 @@
                         Date="{Binding DataProgramare}"
                         Margin="20" />
 
-            <Label Text="Serviciu selectat:"
-                   Margin="20,0" />
-            <Label x:Name="selectedServiciuLabel"
-                   Text="{Binding serviciu.NumeServiciu}"
-                   Margin="20,0" />
+            <CollectionView x:Name="serviciuCollectionView"
+                            SelectionMode="Single"
+                            SelectionChanged="OnServiciuSelected">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Label Text="{Binding NumeServiciu}" 
+                               Margin="10"/>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
 
             <Grid Margin="20">
                 <Grid.ColumnDefinitions>

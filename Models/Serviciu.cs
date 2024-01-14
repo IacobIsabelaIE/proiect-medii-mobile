@@ -12,8 +12,6 @@ namespace ProiectMobile.Models
         [PrimaryKey, AutoIncrement]
         public int ID { get; set; }
         public string NumeServiciu { get; set; }
-
-        [MaxLength(250)]
         public string DescriereServiciu { get; set; }
         public int PretServiciu { get; set; }
         public DateTime DurataServiciu { get; set; }

@@ -1,10 +1,5 @@
 ﻿using ProiectMobile.Models;
 using SQLite;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ProiectMobile.Data
 {
@@ -63,12 +58,18 @@ namespace ProiectMobile.Data
             return _database.DeleteAsync(programare);
         }
 
-        public Task<List<Programare>> GetProgramariAsync()
+        public async Task<List<Programare>> GetProgramariAsync()
         {
-            return _database.Table<Programare>().ToListAsync();
+            var programari = await _database.Table<Programare>().ToListAsync();
+            foreach (var programare in programari)
+            {
+                programare.serviciu = await _database.Table<Serviciu>().FirstOrDefaultAsync(s => s.ID == programare.ServiciuId);
+            }
+            return programari;
         }
 
 
     }
 }
 
+    
