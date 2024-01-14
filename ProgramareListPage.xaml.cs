@@ -21,5 +21,18 @@ namespace ProiectMobile
             base.OnAppearing();
             LoadProgramari();
         }
+
+        private async void OnDeleteButtonClicked(object sender, EventArgs e)
+        {
+            var button = sender as Button;
+            var programare = button?.CommandParameter as Programare;
+            if (programare != null)
+            {
+                await App.Database.DeleteProgramareAsync(programare);
+                programariListView.ItemsSource = await App.Database.GetProgramariAsync();
+            }
+        }
+
+
     }
 }

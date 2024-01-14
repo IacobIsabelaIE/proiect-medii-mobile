@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-01-14T21:46:37.796</Modified>
+      <Modified>2024-01-14T22:00:51.627</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-01-14T21:07:50.442</Modified>
+      <Modified>2024-01-14T22:00:51.365</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ProiectMobile.runtimeconfig.json">
       <PackagePath>ProiectMobile.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ProiectMobile.dll">
       <PackagePath>ProiectMobile.dll</PackagePath>
-      <Modified>2024-01-14T21:46:36.055</Modified>
+      <Modified>2024-01-14T22:00:50.513</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ProiectMobile.exe</PackagePath>
-      <Modified>2024-01-14T21:46:36.077</Modified>
+      <Modified>2024-01-14T22:00:50.519</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ProiectMobile.deps.json">
       <PackagePath>ProiectMobile.deps.json</PackagePath>
