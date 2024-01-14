@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProiectMobile.ProgramarePage"
+             Title="ProgramarePage">
+    <ContentPage.Content>
+        <StackLayout Margin="20">
+            <Editor Placeholder="Adauga numele beneficiarului"
+                    Text="{Binding NumeBeneficiar}"
+                    HeightRequest="50" 
+                    Margin="20" />
+            <DatePicker x:Name="datePicker"
+                        Date="{Binding DataProgramare}"
+                        Margin="20" />
+
+            <Label Text="Serviciu selectat:"
+                   Margin="20,0" />
+            <Label x:Name="selectedServiciuLabel"
+                   Text="{Binding serviciu.NumeServiciu}"
+                   Margin="20,0" />
+
+            <Grid Margin="20">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Button Text="Salveaza programarea"
+                        Clicked="OnSaveButtonClicked" />
+                <Button Grid.Column="1"
+                        Text="Delete Programare"
+                        Clicked="OnDeleteButtonClicked"/>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

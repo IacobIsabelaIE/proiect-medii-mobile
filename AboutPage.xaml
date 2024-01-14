@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProiectMobile.AboutPage"
+             Title="AboutPage">
+    <VerticalStackLayout Spacing="10" Margin="10">
+        <HorizontalStackLayout Spacing="10">
+            <Image Source="biserica_sf_mihail.jpg"
+ SemanticProperties.Description="Biserica"
+HeightRequest="64" />
+            <Label FontSize="22" FontAttributes="Bold" Text="Bine ati venit!" VerticalOptions="End" />
+            <Label FontSize="22" Text="v1.0" VerticalOptions="End" />
+        </HorizontalStackLayout>
+        <Label Text="Daca-ti vor zice: Vino cu noi! Haidem sa intindem curse ca sa varsam sange, sa intindem fara temei laturi celui nevinovat;" />
+
+    </VerticalStackLayout>
+</ContentPage>  
