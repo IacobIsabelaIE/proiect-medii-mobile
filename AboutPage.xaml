@@ -3,15 +3,25 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ProiectMobile.AboutPage"
              Title="AboutPage">
-    <VerticalStackLayout Spacing="10" Margin="10">
+    <VerticalStackLayout Spacing="10" Margin="10" HorizontalOptions="CenterAndExpand">
         <HorizontalStackLayout Spacing="10">
             <Image Source="biserica_sf_mihail.jpg"
- SemanticProperties.Description="Biserica"
-HeightRequest="64" />
+                   SemanticProperties.Description="Biserica"
+                   HeightRequest="64" />
             <Label FontSize="22" FontAttributes="Bold" Text="Bine ati venit!" VerticalOptions="End" />
-            <Label FontSize="22" Text="v1.0" VerticalOptions="End" />
+            <Label FontSize="22" Text="" VerticalOptions="End" />
         </HorizontalStackLayout>
         <Label Text="Daca-ti vor zice: Vino cu noi! Haidem sa intindem curse ca sa varsam sange, sa intindem fara temei laturi celui nevinovat;" />
 
+        <!-- Additional Elements -->
+        <Label Text="Despre Noi" FontSize="20" FontAttributes="Bold" />
+        <Label Text="Biserica Sfantul Mihail" FontSize="18" />
+        <Label Text="O comunitate religioasa dedicata rugaciunii si spiritualitatii." />
+
+        <Button Text="Contacteaza-ne" BackgroundColor="FloralWhite" TextColor="Black" />
+
+        <Image Source="additional_image.jpg" HeightRequest="150" Aspect="AspectFill" />
+
+        
     </VerticalStackLayout>
-</ContentPage>  
+</ContentPage>

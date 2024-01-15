@@ -10,29 +10,64 @@
             VerticalOptions="Center">
 
             <Image
-                Source="dotnet_bot.png"
+                Source="biserica_sf_mihail.jpg"
                 SemanticProperties.Description="Cute dot net bot waving hi to you!"
                 HeightRequest="200"
                 HorizontalOptions="Center" />
 
+            <!-- Additional Elements -->
             <Label
-                Text="Hello, World!"
-                SemanticProperties.HeadingLevel="Level1"
-                FontSize="32"
+                Text="Biserica Sfantul Mihail"
+                SemanticProperties.HeadingLevel="Level9"
+                FontSize="24"
                 HorizontalOptions="Center" />
 
             <Label
-                Text="Welcome to .NET Multi-platform App UI"
-                SemanticProperties.HeadingLevel="Level2"
-                SemanticProperties.Description="Welcome to dot net Multi platform App U I"
-                FontSize="18"
+                Text="Numar de telefon: +123456789"
+                FontSize="16"
+                HorizontalOptions="Center" />
+
+            <Label
+                Text="Locatie: Strada Bisericii, Orasul Tau"
+                FontSize="16"
+                HorizontalOptions="Center" />
+
+            <Label
+                Text="Lista cu preoti:"
+                FontSize="20"
+                FontAttributes="Bold"
+                HorizontalOptions="Center" />
+
+            <Label
+                Text="1. Pr. Ioan Popescu"
+                FontSize="16"
+                HorizontalOptions="Center" />
+
+            <Label
+                Text="2. Pr. Marian Ionescu"
+                FontSize="16"
+                HorizontalOptions="Center" />
+
+            <Label
+                Text="Dorinte: O comunitate unita in rugaciune si spiritualitate."
+                FontSize="16"
+                HorizontalOptions="Center" />
+
+            <Label
+                Text="Email: contact@biserica-sfantulmihail.ro"
+                FontSize="16"
                 HorizontalOptions="Center" />
 
             <Button
-                x:Name="CounterBtn"
-                Text="Click me"
-                SemanticProperties.Hint="Counts the number of times you click"
-                Clicked="OnCounterClicked"
+                Text="Contacteaza-ne"
+                BackgroundColor="BlueViolet"
+                TextColor="White"
+                HorizontalOptions="Center" />
+
+            <Image
+                Source="additional_image.jpg"
+                HeightRequest="150"
+                Aspect="AspectFill"
                 HorizontalOptions="Center" />
 
         </VerticalStackLayout>
