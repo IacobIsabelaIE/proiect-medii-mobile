@@ -15,7 +15,6 @@
                 HeightRequest="200"
                 HorizontalOptions="Center" />
 
-            <!-- Additional Elements -->
             <Label
                 Text="Biserica Sfantul Mihail"
                 SemanticProperties.HeadingLevel="Level9"
@@ -58,11 +57,7 @@
                 FontSize="16"
                 HorizontalOptions="Center" />
 
-            <Button
-                Text="Contacteaza-ne"
-                BackgroundColor="BlueViolet"
-                TextColor="White"
-                HorizontalOptions="Center" />
+           
 
             <Image
                 Source="additional_image.jpg"

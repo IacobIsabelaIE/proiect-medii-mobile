@@ -7,15 +7,34 @@
         <ListView x:Name="programariListView">
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <ViewCell Height="580">
-                        <!-- Set a taller height here -->
-                        <StackLayout Orientation="Vertical">
-                            <Label Text="{Binding NumeBeneficiar}" 
-                                   FontAttributes="Bold"/>
-                            <Label Text="{Binding DataProgramare}" 
-                                   FontAttributes="Bold"/>
-                            <Label Text="{Binding serviciu.NumeServiciu}" />
-                        </StackLayout>
+                    <ViewCell Height="700">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="Auto" />
+                            </Grid.ColumnDefinitions>
+
+                            <StackLayout Grid.Column="0" Orientation="Horizontal">
+                                <Label Text="{Binding NumeBeneficiar}" 
+                                       FontAttributes="Bold"
+                                       Margin="0,0,10,0"/>
+                                <Label Text="{Binding DataProgramare}" 
+                                       FontAttributes="Bold"
+                                       Margin="0,0,10,0"/>
+                                <Label Text="{Binding serviciu.NumeServiciu}" 
+                                       Margin="0,0,10,0"/>
+                            </StackLayout>
+
+                            <Button Grid.Column="1"
+                                    Text="Delete"
+                                    HorizontalOptions="End"
+                                    BackgroundColor="Purple"
+                                    TextColor="White"
+                                    Command="{Binding BindingContext.DeleteCommand, Source={x:Reference programariListView}}"
+                                    CommandParameter="{Binding .}"
+                                    Clicked="OnDeleteButtonClicked"/>
+                        </Grid>
+
                     </ViewCell>
                 </DataTemplate>
             </ListView.ItemTemplate>

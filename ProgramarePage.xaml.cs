@@ -51,9 +51,8 @@ namespace ProiectMobile
             await DisplayAlert("Succes", "Programarea a fost creeata cu succes!", "OK");
 
             BindingContext = new Programare();
-            datePicker.Date = DateTime.Now; 
+            datePicker.Date = DateTime.Now;
         }
-
 
 
         async void OnDeleteButtonClicked(object sender, EventArgs e)

@@ -30,29 +30,29 @@
     <AppXManifest Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-01-14T23:15:08.904</Modified>
+      <Modified>2024-01-15T10:46:00.708</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-01-14T23:13:24.182</Modified>
+      <Modified>2024-01-15T10:40:57.038</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ProiectMobile.runtimeconfig.json">
       <PackagePath>ProiectMobile.runtimeconfig.json</PackagePath>
-      <Modified>2024-01-14T20:43:43.647</Modified>
+      <Modified>2024-01-15T10:40:56.539</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ProiectMobile.dll">
       <PackagePath>ProiectMobile.dll</PackagePath>
-      <Modified>2024-01-14T23:15:07.916</Modified>
+      <Modified>2024-01-15T10:45:58.724</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ProiectMobile.exe</PackagePath>
-      <Modified>2024-01-14T23:15:07.922</Modified>
+      <Modified>2024-01-15T10:45:58.748</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ProiectMobile.deps.json">
       <PackagePath>ProiectMobile.deps.json</PackagePath>
-      <Modified>2024-01-14T21:07:50.348</Modified>
+      <Modified>2024-01-15T10:40:56.320</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.24\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1062,29 +1062,29 @@
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
       <Modified>2016-06-13T23:06:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\.nuget\packages\sqlite-net-pcl\1.8.116\lib\netstandard2.0\SQLite-net.dll">
+    <AppxPackagedFile Include="C:\Users\Isa\.nuget\packages\sqlite-net-pcl\1.5.231\lib\netstandard1.1\SQLite-net.dll">
       <PackagePath>SQLite-net.dll</PackagePath>
-      <Modified>2021-09-02T21:04:32.000</Modified>
+      <Modified>2018-09-10T20:00:16.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\.nuget\packages\sqlitenetextensions\2.1.0\lib\netstandard1.1\SQLiteNetExtensions.dll">
       <PackagePath>SQLiteNetExtensions.dll</PackagePath>
       <Modified>2018-08-13T22:28:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\.nuget\packages\sqlitepclraw.bundle_green\2.0.4\lib\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll">
+    <AppxPackagedFile Include="C:\Users\Isa\.nuget\packages\sqlitepclraw.bundle_green\1.1.11\lib\netcoreapp\SQLitePCLRaw.batteries_green.dll">
+      <PackagePath>SQLitePCLRaw.batteries_green.dll</PackagePath>
+      <Modified>2018-05-02T11:43:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isa\.nuget\packages\sqlitepclraw.bundle_green\1.1.11\lib\netcoreapp\SQLitePCLRaw.batteries_v2.dll">
       <PackagePath>SQLitePCLRaw.batteries_v2.dll</PackagePath>
-      <Modified>2020-09-03T17:13:26.000</Modified>
+      <Modified>2018-05-02T11:43:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\.nuget\packages\sqlitepclraw.bundle_green\2.0.4\lib\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll">
-      <PackagePath>SQLitePCLRaw.nativelibrary.dll</PackagePath>
-      <Modified>2020-09-03T17:13:02.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\.nuget\packages\sqlitepclraw.core\2.0.4\lib\netstandard2.0\SQLitePCLRaw.core.dll">
+    <AppxPackagedFile Include="C:\Users\Isa\.nuget\packages\sqlitepclraw.core\1.1.11\lib\netstandard1.1\SQLitePCLRaw.core.dll">
       <PackagePath>SQLitePCLRaw.core.dll</PackagePath>
-      <Modified>2020-09-03T17:13:04.000</Modified>
+      <Modified>2018-05-02T11:43:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\.nuget\packages\sqlitepclraw.provider.dynamic_cdecl\2.0.4\lib\netstandard2.0\SQLitePCLRaw.provider.dynamic_cdecl.dll">
-      <PackagePath>SQLitePCLRaw.provider.dynamic_cdecl.dll</PackagePath>
-      <Modified>2020-09-03T17:13:18.000</Modified>
+    <AppxPackagedFile Include="C:\Users\Isa\.nuget\packages\sqlitepclraw.provider.e_sqlite3.netstandard11\1.1.11\lib\netstandard1.1\SQLitePCLRaw.provider.e_sqlite3.dll">
+      <PackagePath>SQLitePCLRaw.provider.e_sqlite3.dll</PackagePath>
+      <Modified>2018-05-02T11:44:16.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\.nuget\packages\microsoft.graphics.win2d\1.0.3.1\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
@@ -1094,9 +1094,13 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2022-09-07T21:54:36.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Isa\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.4\runtimes\win-x64\native\e_sqlite3.dll">
+    <AppxPackagedFile Include="C:\Users\Isa\.nuget\packages\runtime.win7-x64.runtime.native.system.io.compression\4.3.0\runtimes\win7-x64\native\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+      <Modified>2016-11-05T04:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isa\.nuget\packages\sqlitepclraw.lib.e_sqlite3.v110_xp\1.1.11\runtimes\win-x64\native\e_sqlite3.dll">
       <PackagePath>e_sqlite3.dll</PackagePath>
-      <Modified>2020-08-17T14:38:20.000</Modified>
+      <Modified>2018-05-02T11:44:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\.nuget\packages\microsoft.maui.controls.ref.win\6.0.553\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1116,23 +1120,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-01-14T18:49:43.557</Modified>
+      <Modified>2024-01-14T23:27:06.406</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-01-14T18:49:43.571</Modified>
+      <Modified>2024-01-14T23:27:06.420</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-01-14T18:49:43.594</Modified>
+      <Modified>2024-01-14T23:27:06.437</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-01-14T18:49:43.620</Modified>
+      <Modified>2024-01-14T23:27:06.471</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-01-14T18:49:43.736</Modified>
+      <Modified>2024-01-14T23:27:06.625</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -1144,187 +1148,187 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-01-14T19:07:51.592</Modified>
+      <Modified>2024-01-14T23:27:06.667</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.933</Modified>
+      <Modified>2024-01-14T23:27:06.916</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.950</Modified>
+      <Modified>2024-01-14T23:27:06.930</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.966</Modified>
+      <Modified>2024-01-14T23:27:06.940</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.990</Modified>
+      <Modified>2024-01-14T23:27:06.955</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-01-14T19:07:52.097</Modified>
+      <Modified>2024-01-14T23:27:07.009</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.679</Modified>
+      <Modified>2024-01-14T23:27:06.738</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.683</Modified>
+      <Modified>2024-01-14T23:27:06.742</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.698</Modified>
+      <Modified>2024-01-14T23:27:06.756</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.686</Modified>
+      <Modified>2024-01-14T23:27:06.744</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.690</Modified>
+      <Modified>2024-01-14T23:27:06.748</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.652</Modified>
+      <Modified>2024-01-14T23:27:06.714</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.657</Modified>
+      <Modified>2024-01-14T23:27:06.717</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.676</Modified>
+      <Modified>2024-01-14T23:27:06.734</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.661</Modified>
+      <Modified>2024-01-14T23:27:06.721</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.666</Modified>
+      <Modified>2024-01-14T23:27:06.725</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.604</Modified>
+      <Modified>2024-01-14T23:27:06.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.609</Modified>
+      <Modified>2024-01-14T23:27:06.678</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.612</Modified>
+      <Modified>2024-01-14T23:27:06.681</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.616</Modified>
+      <Modified>2024-01-14T23:27:06.686</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.622</Modified>
+      <Modified>2024-01-14T23:27:06.692</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.625</Modified>
+      <Modified>2024-01-14T23:27:06.695</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.628</Modified>
+      <Modified>2024-01-14T23:27:06.698</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.648</Modified>
+      <Modified>2024-01-14T23:27:06.711</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.633</Modified>
+      <Modified>2024-01-14T23:27:06.701</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.636</Modified>
+      <Modified>2024-01-14T23:27:06.704</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.754</Modified>
+      <Modified>2024-01-14T23:27:06.812</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.761</Modified>
+      <Modified>2024-01-14T23:27:06.816</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.768</Modified>
+      <Modified>2024-01-14T23:27:06.823</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.779</Modified>
+      <Modified>2024-01-14T23:27:06.830</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.809</Modified>
+      <Modified>2024-01-14T23:27:06.845</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.725</Modified>
+      <Modified>2024-01-14T23:27:06.783</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.729</Modified>
+      <Modified>2024-01-14T23:27:06.788</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.734</Modified>
+      <Modified>2024-01-14T23:27:06.791</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.740</Modified>
+      <Modified>2024-01-14T23:27:06.797</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.749</Modified>
+      <Modified>2024-01-14T23:27:06.806</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.702</Modified>
+      <Modified>2024-01-14T23:27:06.760</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.706</Modified>
+      <Modified>2024-01-14T23:27:06.764</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.709</Modified>
+      <Modified>2024-01-14T23:27:06.768</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.714</Modified>
+      <Modified>2024-01-14T23:27:06.772</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.722</Modified>
+      <Modified>2024-01-14T23:27:06.779</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.818</Modified>
+      <Modified>2024-01-14T23:27:06.851</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.827</Modified>
+      <Modified>2024-01-14T23:27:06.859</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.841</Modified>
+      <Modified>2024-01-14T23:27:06.867</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.858</Modified>
+      <Modified>2024-01-14T23:27:06.879</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.919</Modified>
+      <Modified>2024-01-14T23:27:06.908</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\biserica_sf_mihail.scale-100.jpg">
       <PackagePath>biserica_sf_mihail.scale-100.jpg</PackagePath>
@@ -1332,23 +1336,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.555</Modified>
+      <Modified>2024-01-14T23:27:06.706</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.568</Modified>
+      <Modified>2024-01-14T23:27:06.715</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.587</Modified>
+      <Modified>2024-01-14T23:27:06.730</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.617</Modified>
+      <Modified>2024-01-14T23:27:06.750</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-01-14T19:07:51.688</Modified>
+      <Modified>2024-01-14T23:27:06.799</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

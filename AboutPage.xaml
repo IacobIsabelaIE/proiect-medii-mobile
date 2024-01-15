@@ -13,12 +13,14 @@
         </HorizontalStackLayout>
         <Label Text="Daca-ti vor zice: Vino cu noi! Haidem sa intindem curse ca sa varsam sange, sa intindem fara temei laturi celui nevinovat;" />
 
-        <!-- Additional Elements -->
         <Label Text="Despre Noi" FontSize="20" FontAttributes="Bold" />
         <Label Text="Biserica Sfantul Mihail" FontSize="18" />
         <Label Text="O comunitate religioasa dedicata rugaciunii si spiritualitatii." />
 
-        <Button Text="Contacteaza-ne" BackgroundColor="FloralWhite" TextColor="Black" />
+        <Button Text="Contacteaza-ne" 
+        BackgroundColor="MediumPurple" 
+        TextColor="AntiqueWhite" 
+        Clicked="OnContactButtonClicked" />
 
         <Image Source="additional_image.jpg" HeightRequest="150" Aspect="AspectFill" />
 
