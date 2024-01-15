@@ -7,16 +7,14 @@
         <ListView x:Name="programariListView">
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <ViewCell>
+                    <ViewCell Height="580">
+                        <!-- Set a taller height here -->
                         <StackLayout Orientation="Vertical">
                             <Label Text="{Binding NumeBeneficiar}" 
                                    FontAttributes="Bold"/>
                             <Label Text="{Binding DataProgramare}" 
                                    FontAttributes="Bold"/>
                             <Label Text="{Binding serviciu.NumeServiciu}" />
-                            <Button Text="Delete Programare"
-                                    CommandParameter="{Binding .}"
-                                    Clicked="OnDeleteButtonClicked"/>
                         </StackLayout>
                     </ViewCell>
                 </DataTemplate>
