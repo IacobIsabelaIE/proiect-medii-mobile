@@ -156,3 +156,8 @@ maui.aar
 Microsoft.Maui.aar
 Microsoft.Maui.Essentials.aar
 Xamarin.Google.Crypto.Tink.Android.aar
+SQLitePCLRaw.batteries_green.dll
+SQLitePCLRaw.batteries_v2.dll
+SQLitePCLRaw.core.dll
+SQLitePCLRaw.lib.e_sqlite3.dll
+SQLitePCLRaw.provider.e_sqlite3.dll

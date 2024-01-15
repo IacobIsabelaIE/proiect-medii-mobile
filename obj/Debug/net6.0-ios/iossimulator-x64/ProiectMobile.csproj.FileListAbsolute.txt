@@ -220,6 +220,7 @@ C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\bin\Debug\net6.0-ios\iossimulator-
 C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\bin\Debug\net6.0-ios\iossimulator-x64\libxamarin-dotnet-debug.dylib
 C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\bin\Debug\net6.0-ios\iossimulator-x64\libxamarin-dotnet.a
 C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\bin\Debug\net6.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
+C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-ios\iossimulator-x64\build-signature\signature
 C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-ios\iossimulator-x64\mauiimage.inputs
 C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-ios\iossimulator-x64\mauifont.inputs
 C:\Users\Isa\Desktop\Labs_Medii\ProiectMobile\obj\Debug\net6.0-ios\iossimulator-x64\mauisplash.inputs
